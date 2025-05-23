@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyOfThidType", "HowManyOfThidType\HowManyOfThidType.csproj", "{6ED04645-EBBD-4629-B398-01064B009A93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheyCameBefore", "TheyCameBefore\TheyCameBefore.csproj", "{FE0D676C-DD54-42C4-97DD-D672C9171340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftingSim", "CraftingSim\CraftingSim.csproj", "{1C4E2F61-1BF6-46A4-A82D-7E794311630F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{6ED04645-EBBD-4629-B398-01064B009A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED04645-EBBD-4629-B398-01064B009A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED04645-EBBD-4629-B398-01064B009A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0D676C-DD54-42C4-97DD-D672C9171340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0D676C-DD54-42C4-97DD-D672C9171340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0D676C-DD54-42C4-97DD-D672C9171340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0D676C-DD54-42C4-97DD-D672C9171340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4E2F61-1BF6-46A4-A82D-7E794311630F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4E2F61-1BF6-46A4-A82D-7E794311630F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4E2F61-1BF6-46A4-A82D-7E794311630F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4E2F61-1BF6-46A4-A82D-7E794311630F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
